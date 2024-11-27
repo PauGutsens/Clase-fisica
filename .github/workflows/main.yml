@@ -12,4 +12,4 @@ jobs:
     - name: Setup checkOut
       uses: actions/checkout@v3
     - name: Setup MSBuild
-      uses: microsoft/setup-msuild@v2
+      uses: microsoft/setup-msbuild@v2
